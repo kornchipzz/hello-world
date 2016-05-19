@@ -1,5 +1,4 @@
 # hello-world
-road to glory
 Yes its me!
 1st things first.. im Edgar
 30 years of age
